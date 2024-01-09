@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.rest;
+package com.springdemo.rest;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
